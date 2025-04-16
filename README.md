@@ -1,5 +1,5 @@
 # Java-Student-Information-System---Final-Project
-#🎓 Welcome to the PHINMA COC Student Information System!
+# 🎓 Welcome to the PHINMA COC Student Information System!
 This Java-based Student Information System (SIS) is your all-in-one digital tool for managing student records with ease and efficiency — designed especially for PHINMA Cagayan de Oro College!
 
 With a clean, menu-driven console interface, this system brings admin control and student access together in one place. Here's what it can do:
